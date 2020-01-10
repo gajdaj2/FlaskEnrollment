@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="468f5c78-5d04-41f6-8a8b-fc329c1808bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vwbi0TjYWFZkAkbEmMyKYfXqnA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kubus\PycharmProjects\Enrollment\application\templates\includes" />
+      <recent name="C:\Users\kubus\PycharmProjects\Enrollment\application\static\css" />
+      <recent name="C:\Users\kubus\PycharmProjects\Enrollment\application\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kubus\PycharmProjects\Enrollment\application\templates" />
+      <recent name="C:\Users\kubus\PycharmProjects\Enrollment\application\static\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="468f5c78-5d04-41f6-8a8b-fc329c1808bc" name="Default Changelist" comment="" />
+      <created>1578167227963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578167227963</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578167414736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1578167414736" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1578257631818">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578257631818" />
+    <state x="162" y="0" key="SettingsEditor" timestamp="1578167350677">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="162" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578167350677" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1578641588735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578641588735" />
+  </component>
+</project>
